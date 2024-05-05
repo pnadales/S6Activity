@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "66502840215",
+    "firebase_url": "https://primerproyecto-925f9-default-rtdb.firebaseio.com",
+    "project_id": "primerproyecto-925f9",
+    "storage_bucket": "primerproyecto-925f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66502840215:android:32c92d026491a89f88bed2",
+        "android_client_info": {
+          "package_name": "com.example.actividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRWJkwE03-xvLVG2TFZv2TE8efftp4RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66502840215:android:57061ce48bf7a3a688bed2",
+        "android_client_info": {
+          "package_name": "com.example.actividads6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRWJkwE03-xvLVG2TFZv2TE8efftp4RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66502840215:android:c19f1a4cd778110488bed2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRWJkwE03-xvLVG2TFZv2TE8efftp4RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
